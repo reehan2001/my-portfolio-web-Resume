@@ -69,6 +69,7 @@ export const ProjectsData = [
 export const skillsData = [
     "C++",
     "Python",
+    "Rust",
     "HTML",
     "CSS",
     "JavaScript",

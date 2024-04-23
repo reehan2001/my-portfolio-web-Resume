@@ -28,7 +28,7 @@ export default function Experience() {
         <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
         <time className="mb-8 text-sm font-normal leading-none text-black-400 dark:text-black-500">2019 - 2023</time>
         <h3 className="mb-3 text-2xl font-semibold text-gray-900 dark:text-black capitalize">Bachelor of Engineering in Electronics & Communication Engineering</h3>
-        <p className="text-xl italic font-medium text-black dark:text-black-400">Chennai Institute of Technology – CGPA: 8.9</p>
+        <p className="text-xl italic font-medium text-black dark:text-black-400">Chennai Institute of Technology – CGPA: 8.6</p>
        </li>
         <li className="mb-10 ms-4">
         <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
